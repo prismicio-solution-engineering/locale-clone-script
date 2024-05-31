@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "tsx cloneLocale.ts"
+  },
+  "dependencies": {
+    "@prismicio/client": "^7.5.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
